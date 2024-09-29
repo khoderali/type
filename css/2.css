@@ -1,0 +1,11 @@
+#sectionn {
+    margin: auto;
+    max-width: 740px;
+}
+.carousel-item img{
+    max-height: 170px;
+}
+.card {
+    -webkit-box-shadow:0 0px 0px 0;
+    box-shadow:0 0px 0px 0;
+}

@@ -1,0 +1,39 @@
+#header11{
+    margin: 0px;
+    padding: 0px;
+}
+marquee {
+    color: white;
+    background:white!important;
+    font-size: 20px;
+    height: 30px;
+    direction: rtl;
+    /* box-shadow: 1px 1px 10px rgb(202, 201, 201); */
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav-link {
+    padding : 10px 20px !important;
+}
+#a1 {
+    font-weight: bold ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: rgb(25, 25, 150);
+}
+#main1 {
+    /* background: yellowgreen; */
+    height: 720px;
+    width: 100%;
+}
+
+.list-group-item{
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+#h1 {
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
